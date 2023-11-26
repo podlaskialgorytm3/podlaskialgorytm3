@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <p>I have a strong passion for web development and a constant desire to learn and collaborate. If you have any inquiries, ideas, or simply want to connect, feel free to get in touch with me:</p>
+  <p>Emial: <a href="mailto:live.m851@gmail.com">live.m851@gmail.com</a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
