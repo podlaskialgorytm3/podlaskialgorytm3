@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Online Shop](https://github.com/podlaskialgorytm3/online-shop) <a href="http://podlaskialgorytm.ct8.pl/">LIVE VIEW!!!</a>
 
-- 🌱 I’m currently learning **NextJS**  
+- 🌱 I’m currently learning **NextJS**   
       
 - 📫 How to reach me **live.m851@gmail.com**      
     
