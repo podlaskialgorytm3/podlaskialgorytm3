@@ -10,7 +10,7 @@
 - ⚡ Hobby **Sport and maths!!!**        
          
 <h3 align="left">Connect with me:</h3>   
-<p align="left">    
+<p align="left">     
   <p>I have a strong passion for web development and a constant desire to learn and collaborate. If you have any inquiries, ideas, or simply want to connect, feel free to get in touch with me:</p>
   <p>Email: <a href="mailto:michalkozak300@gmail.com">michalkozak300@gmail.com</a></p>
 </p> 
