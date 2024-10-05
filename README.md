@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **ExpressJS**       
                
-- 📫 How to reach me **live.m851@gmail.com**             
+- 📫 How to reach me **live.m851@gmail.com**              
               
 - ⚡ Hobby **Sport and maths!!!**         
          
