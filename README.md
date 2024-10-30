@@ -2,7 +2,7 @@
 <h3 align="center">I'm 19 years old Web Developer from Poland. I am currently studying at an IT technical school and I am passionate about creating websites. Feel free to explore my profile!</h3>      
    
 - 🔭 I’m currently working on [Stewardship Backend](https://github.com/podlaskialgorytm3/stewardship-backend)
-  
+   
 - 🌱 I’m currently learning **ExpressJS**       
                   
 - 📫 How to reach me **live.m851@gmail.com**                
