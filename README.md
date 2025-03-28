@@ -3,7 +3,7 @@
    
 - 🔭 I’m currently working on [Stewardship Backend](https://github.com/podlaskialgorytm3/stewardship-backend)
    
-- 🌱 I’m currently learning **Docker & Java**           
+- 🌱 I’m currently learning **Docker & Java**            
                     
 - 📫 How to reach me **live.m851@gmail.com**                 
                 
