@@ -7,7 +7,7 @@
                      
 - 📫 How to reach me **live.m851@gmail.com**                    
                  
-- ⚡ Hobby **Chess & Gym!!!**   
+- ⚡ Hobby **Running & Gym!!!**   
              
 <h3 align="left">Connect with me:</h3>     
 <p align="left">      
