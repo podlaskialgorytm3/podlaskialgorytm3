@@ -2,7 +2,7 @@
 <h3 align="center">I'm 21 years old Web Developer from Poland. I am currently studying at Warsaw University of Technology Computer Science and I am passionate about creating websites. Feel free to explore my profile!</h3>        
    
 - 🔭 I’m currently working on [Mathify](https://github.com/podlaskialgorytm3/mathify)
-   
+    
 - 🌱 I’m currently learning **Docker & Java**              
                      
 - 📫 How to reach me **live.m851@gmail.com**                    
