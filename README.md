@@ -5,7 +5,7 @@
     
 - 🌱 I’m currently learning **Docker & Java**              
                      
-- 📫 How to reach me **live.m851@gmail.com**                    
+- 📫 How to reach me **michalkozak300@gmail.com**                    
                  
 - ⚡ Hobby **Running & Gym!!!**   
              
