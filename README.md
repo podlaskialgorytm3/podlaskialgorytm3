@@ -1,44 +1,62 @@
-<h1 align="center">Hi 👋, I'm Michał</h1> 
-<h3 align="center">I'm 21 years old Web Developer from Poland. I am currently studying at Warsaw University of Technology Computer Science and I am passionate about creating websites. Feel free to explore my profile!</h3>        
-   
-- 🔭 I’m currently working on [Mathify](https://github.com/podlaskialgorytm3/mathify)
-    
-- 🌱 I’m currently learning **Docker & Java**              
-                     
-- 📫 How to reach me **michalkozak300@gmail.com**                    
-                 
-- ⚡ Hobby **Running & Gym!!!**   
-             
-<h3 align="left">Connect with me:</h3>     
-<p align="left">      
-  <p>I have a strong passion for web development and a constant desire to learn and collaborate. If you have any inquiries, ideas, or simply want to connect, feel free to get in touch with me:</p>
-  <p>Email: <a href="mailto:michalkozak300@gmail.com">michalkozak300@gmail.com</a></p> 
-</p> 
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+# 💫 About Me
+
+🔭 I’m currently building **Mathify** – a project focused on making mathematics more accessible and practical.  
+🤝 I’m open to collaborating with companies where I can create real impact and help build meaningful products.  
+🌱 I’m currently learning **Docker** and deepening my knowledge of **Java**.  
+💬 Feel free to reach out if you’d like to collaborate.  
+🎓 Fun fact: I teach mathematics.
+
+I’m an **Applied Computer Science student at Warsaw University of Technology**, focused on building practical software solutions that solve real-world problems and deliver measurable business value.
+
+I combine a strong product-oriented mindset with solid technical skills. I enjoy designing and delivering end-to-end solutions — from idea to deployment. I’m comfortable breaking down complex problems into simple, scalable, and efficient systems.
+
+Beyond coding, I value clear communication, teamwork, and understanding the broader business context of every project I work on.
+
+---
+
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/podlaskialgorytm)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Michał Kozak)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nolifexd)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michał Kozak)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michalkozak300@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### 🧠 Languages  
+C • Java • JavaScript • TypeScript • Python • SQL • HTML5 • CSS3
+
+### ⚛️ Frontend  
+React • React Native • Next.js • Vite • Redux • React Query • React Router • React Hook Form • Context API • TailwindCSS • Chart.js
+
+### 🖥 Backend & Tools  
+Node.js • JWT • Prisma • MySQL • Supabase • Apache • NPM • Nodemon • Git • GitHub
+
+### ☁️ DevOps & Deployment  
+Docker (learning) • Vercel • Render • DigitalOcean • Windows Terminal
+
+### 📚 Other  
+LaTeX • Markdown
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=podlaskialgorytm3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=podlaskialgorytm3&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=podlaskialgorytm3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=podlaskialgorytm3&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=podlaskialgorytm3&icon=1&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
