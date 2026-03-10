@@ -2,7 +2,7 @@
 
 I am an **Applied Computer Science student** at the **Warsaw University of Technology**, focused on building practical software solutions that address real-world problems. I combine strong technical skills with a product-oriented mindset to deliver end-to-end solutions.
 
-Currently based in **Warsaw, Poland**.
+Currently based in **Warsaw, Poland**. 
 
 ---
 
